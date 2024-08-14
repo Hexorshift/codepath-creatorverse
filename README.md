@@ -29,13 +29,13 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you added to improve the site's functionality!
-- [x] Hosted on (Netlify)[https://creatorverse-abu.netlify.app]
+- [x] Hosted on ![Netlify](https://creatorverse-abu.netlify.app)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/fzGypme' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://imgur.com/a/fzGypme)
 
 GIF created with ... LiceCap
 
