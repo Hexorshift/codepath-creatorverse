@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Video Walkthrough](https://imgur.com/a/fzGypme)
+<img src='https://i.imgur.com/pX5Ip66.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ... LiceCap
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [2024] [Abu Chowdhury]
+Copyright 2024 Abu Chowdhury
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
