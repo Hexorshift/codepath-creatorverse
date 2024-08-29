@@ -18,9 +18,6 @@ function App() {
     };
 
     fetchCreators();
-    return () => {
-      fetchCreators();
-    };
   }, []);
 
   return (
